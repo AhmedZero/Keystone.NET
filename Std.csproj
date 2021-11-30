@@ -2,7 +2,6 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PlatformTarget>x64</PlatformTarget>
-    <OutputPath>M:\My_Projects\Keystone.NET\</OutputPath>
     <DocumentationFile>Std.xml</DocumentationFile>
     <Configuration>Release</Configuration>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
